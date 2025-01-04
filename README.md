@@ -9,9 +9,9 @@ Le but de ce projet est de prédire la charge de chauffage (Heating Load) et la 
 
 ## Structure du Dépôt
 
-- `data/` : Contient les fichiers de données 
-- `notebooks/` : Contient le notebook Jupyter pour l'exploration des données et l'entraînement des modèles.
-- `scripts/` : Contient les scripts Python pour le prétraitement des données, l'entraînement des modèles, et l'évaluation des modèles.
+- `energy+efficiency.zip/` : Contient les fichiers de données 
+- `Prediction_Energy_Consumption.ipynb/` : Contient le notebook Jupyter pour l'exploration des données et l'entraînement des modèles.
+- `Prediction_Energy_Consumption.py/` : Contient les scripts Python pour le prétraitement des données, l'entraînement des modèles, et l'évaluation des modèles.
 - `README.md` : Ce fichier, décrivant le projet et comment l'utiliser.
 - `requirements.txt` : Liste des dépendances Python nécessaires pour exécuter le projet.
 
