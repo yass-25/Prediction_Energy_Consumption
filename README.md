@@ -9,8 +9,8 @@ Le but de ce projet est de prédire la charge de chauffage (Heating Load) et la 
 
 ## Structure du Dépôt
 
-- `data/` : Contient les fichiers de données (non inclus dans le dépôt pour des raisons de taille et de confidentialité).
-- `notebooks/` : Contient les notebooks Jupyter pour l'exploration des données et l'entraînement des modèles.
+- `data/` : Contient les fichiers de données 
+- `notebooks/` : Contient le notebook Jupyter pour l'exploration des données et l'entraînement des modèles.
 - `scripts/` : Contient les scripts Python pour le prétraitement des données, l'entraînement des modèles, et l'évaluation des modèles.
 - `README.md` : Ce fichier, décrivant le projet et comment l'utiliser.
 - `requirements.txt` : Liste des dépendances Python nécessaires pour exécuter le projet.
@@ -27,5 +27,5 @@ Le but de ce projet est de prédire la charge de chauffage (Heating Load) et la 
 1. Clonez le dépôt GitHub sur votre machine locale:
 
    ```sh
-   git clone https://github.com/<votre-nom-utilisateur>/energy-prediction.git
+   git clone https://github.com/yass-25/energy-prediction.git
    cd energy-prediction
