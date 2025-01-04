@@ -1,7 +1,7 @@
 # ML-Project
 # Prédiction des Charges Énergétiques des Bâtiments
 
-Ce projet utilise des techniques de machine learning pour prédire les charges de chauffage et de refroidissement des bâtiments en fonction de diverses caractéristiques architecturales et physiques.
+Ce projet utilise des techniques de machine learning pour prédire les charges de chauffage et de refroidissement des bâtiments en fonction de diverses caractéristiques architecturales et physiques. Le dataset utilisé pour les entrainements des modèles est disponible ici : https://archive.ics.uci.edu/dataset/242/energy+efficiency ou dans le repertoire GitHub.
 
 ## Vue d'Ensemble du Projet
 
