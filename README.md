@@ -45,7 +45,7 @@ Un script Prediction_Energy_Consumption.py est fourni pour lancer les expérienc
 
    ```sh
    python scripts/Prediction_Energy_Consumption.py
-
+   ```
 ### Structure du code
 Ce script inclut les étapes suivantes :
 
