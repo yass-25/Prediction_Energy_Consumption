@@ -31,16 +31,17 @@ Le but de ce projet est de prédire la charge de chauffage (Heating Load) et la 
    cd energy-prediction
 
 
-###Utilisation
-Exécution des Expériences via Notebook Jupyter
-Ouvrez le notebook Jupyter notebooks/prediction_energy.ipynb:
+### Utilisation
+#### Exécution des Expériences via Notebook Jupyter
+1. Ouvrez le notebook Jupyter notebooks/prediction_energy.ipynb:
 
-jupyter notebook notebooks/prediction_energy.ipynb
+   ```sh
+   jupyter notebook notebooks/prediction_energy.ipynb
 
-Exécutez les cellules séquentiellement pour charger les données, entraîner les modèles, et visualiser les résultats.
+2. Exécutez les cellules séquentiellement pour charger les données, entraîner les modèles, et visualiser les résultats.
 
-Exécution Automatique avec Script
-Un script Python scripts/run_experiments.py est fourni pour lancer les expériences automatiquement. Exécutez-le avec:
+#### Exécution Automatique avec Script
+Un script Prediction_Energy_Consumption.py est fourni pour lancer les expériences automatiquement. Exécutez-le avec:
 
-
-python scripts/run_experiments.py
+   ```sh
+   python scripts/Prediction_Energy_Consumption.py
